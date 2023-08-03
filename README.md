@@ -10,4 +10,4 @@ The present hour block is shown in Red, past hour blocks are shown in gray, and 
 
 Users may enter items into each hour block, and hit the blue save button to save their input
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/readmeScreenshot.png)
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/readmeScreenshot.png)
